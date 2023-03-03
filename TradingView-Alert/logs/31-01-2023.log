@@ -1,0 +1,43 @@
+31-01-2023 16:13:48 | DEBUG     | The log file will be saved in <C:\TradingView-Free-Webhook-Alerts-main\logs>.
+31-01-2023 16:13:48 | INFO      | Start port test...
+31-01-2023 16:13:48 | INFO      | Testing port 5000
+31-01-2023 16:13:49 | INFO      | Port 5000 is free~
+31-01-2023 16:13:49 | OK        | API server is ready to use, port: 5000
+31-01-2023 16:13:49 | INFO      | Your API key: cNFRVkE19mCaT2WWqrlXow
+31-01-2023 16:13:49 | INFO      | Please add 'X-API-KEY' and the API key to the header as the header name and header value of your request.
+31-01-2023 16:13:49 | INFO      | Setting up ngrok...
+31-01-2023 16:13:52 | INFO      | Your ngrok URL: http://51ab-92-252-73-179.ngrok.io
+31-01-2023 16:14:53 | DEBUG     | The log file will be saved in <C:\TradingView-Free-Webhook-Alerts-main\logs>.
+31-01-2023 16:14:53 | INFO      | Start port test...
+31-01-2023 16:14:53 | INFO      | Testing port 5000
+31-01-2023 16:14:54 | INFO      | Port 5000 is free~
+31-01-2023 16:14:54 | OK        | API server is ready to use, port: 5000
+31-01-2023 16:14:54 | INFO      | Your API key: fSZQuLhN2Ypo5saHiiuoQA
+31-01-2023 16:14:54 | INFO      | Please add 'X-API-KEY' and the API key to the header as the header name and header value of your request.
+31-01-2023 16:14:54 | INFO      | Setting up ngrok...
+31-01-2023 16:14:55 | INFO      | Your ngrok URL: http://09dd-92-252-73-179.ngrok.io
+31-01-2023 16:16:50 | INFO      | Sending webhook alert<Alert: BTCUSDT Crossing 20829.89>, content: BTCUSDT Crossing 20829.89
+
+31-01-2023 16:16:50 | ERROR     | Sent webhook failed, reason: Invalid URL <http://localhost:3000/>
+31-01-2023 16:55:33 | DEBUG     | The log file will be saved in <C:\TradingView-Free-Webhook-Alerts-main\logs>.
+31-01-2023 16:55:33 | INFO      | Start port test...
+31-01-2023 16:55:33 | INFO      | Testing port 5000
+31-01-2023 16:55:34 | INFO      | Port 5000 is free~
+31-01-2023 16:55:34 | OK        | API server is ready to use, port: 5000
+31-01-2023 16:55:34 | INFO      | Your API key: 5WHDp2TyHnXI9--O3Chw6g
+31-01-2023 16:55:34 | INFO      | Please add 'X-API-KEY' and the API key to the header as the header name and header value of your request.
+31-01-2023 16:55:34 | INFO      | Setting up ngrok...
+31-01-2023 16:55:35 | INFO      | Your ngrok URL: http://a663-92-252-73-179.ngrok.io
+31-01-2023 17:04:42 | DEBUG     | The log file will be saved in <C:\TradingView-Free-Webhook-Alerts-main\logs>.
+31-01-2023 17:04:42 | INFO      | Start port test...
+31-01-2023 17:04:42 | INFO      | Testing port 5000
+31-01-2023 17:04:43 | INFO      | Port 5000 is free~
+31-01-2023 17:04:43 | OK        | API server is ready to use, port: 5000
+31-01-2023 17:04:43 | INFO      | Your API key: sosfJuhnYw4sF7qgao1gPQ
+31-01-2023 17:04:43 | INFO      | Please add 'X-API-KEY' and the API key to the header as the header name and header value of your request.
+31-01-2023 17:04:43 | INFO      | Setting up ngrok...
+31-01-2023 17:04:44 | INFO      | Your ngrok URL: http://2943-92-252-73-179.ngrok.io
+31-01-2023 17:09:26 | INFO      | Sending webhook alert<Alert: BTCUSDT Crossing 20829.89>, content: BTCUSDT Crossing 20829.89
+
+31-01-2023 17:09:27 | OK        | Sent webhook alert successfully!
+31-01-2023 17:09:27 | INFO      | The whole process taken 4.144454s.

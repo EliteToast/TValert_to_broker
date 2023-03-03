@@ -1,0 +1,22 @@
+14-02-2023 16:30:49 | DEBUG     | The log file will be saved in <C:\TradingView-Free-Webhook-Alerts-main\logs>.
+14-02-2023 16:30:49 | INFO      | Start port test...
+14-02-2023 16:30:49 | INFO      | Testing port 5000
+14-02-2023 16:30:50 | INFO      | Port 5000 is free~
+14-02-2023 16:30:50 | OK        | API server is ready to use, port: 5000
+14-02-2023 16:30:50 | INFO      | Your API key: trUK_c3NVHNUnyVkexIkag
+14-02-2023 16:30:50 | INFO      | Please add 'X-API-KEY' and the API key to the header as the header name and header value of your request.
+14-02-2023 16:30:50 | INFO      | Setting up ngrok...
+14-02-2023 16:30:52 | INFO      | Your ngrok URL: http://c57f-91-249-84-30.ngrok.io
+14-02-2023 16:31:49 | INFO      | Sending webhook alert<Alert: BTCUSDT Crossing 20829.89>, content: BTCUSDT Crossing 20829.89
+
+14-02-2023 16:31:50 | OK        | Sent webhook alert successfully!
+14-02-2023 16:31:50 | INFO      | The whole process taken 4.466993s.
+14-02-2023 16:37:17 | ERROR     | Received data is not valid, data: {'from': 'b.toto3000@gmail.com', 'content': "strategy.oder.action = 'buy'\nticker = '16142'\n", 'receive_datetime': '2023-02-14T15:37:14.044Z'}
+14-02-2023 16:38:39 | INFO      | Sending webhook alert<Alert: BTCUSDT Crossing 22027.46>, content: BTCUSDT Crossing 22027.46
+
+14-02-2023 16:38:40 | OK        | Sent webhook alert successfully!
+14-02-2023 16:38:40 | INFO      | The whole process taken 1.368574s.
+14-02-2023 16:40:42 | INFO      | Sending webhook alert<Alert: BTCUSDT Crossing 21957.77>, content: BTCUSDT Crossing 21957.77
+
+14-02-2023 16:40:42 | OK        | Sent webhook alert successfully!
+14-02-2023 16:40:42 | INFO      | The whole process taken 0.950688s.

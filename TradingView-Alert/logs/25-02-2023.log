@@ -1,0 +1,90 @@
+25-02-2023 08:41:31 | DEBUG     | The log file will be saved in <C:\Money_Strat\TradingView-Alert\logs>.
+25-02-2023 08:41:31 | INFO      | Start port test...
+25-02-2023 08:41:31 | INFO      | Testing port 5000
+25-02-2023 08:41:32 | INFO      | Port 5000 is free~
+25-02-2023 08:41:32 | OK        | API server is ready to use, port: 5000
+25-02-2023 08:41:32 | INFO      | Your API key: 9o2EsU5hDhezBjHsRB8ztQ
+25-02-2023 08:41:32 | INFO      | Please add 'X-API-KEY' and the API key to the header as the header name and header value of your request.
+25-02-2023 08:41:32 | INFO      | Setting up ngrok...
+25-02-2023 08:41:34 | INFO      | Your ngrok URL: http://b201-85-16-50-81.ngrok.io
+25-02-2023 08:43:35 | DEBUG     | The log file will be saved in <C:\Money_Strat\TradingView-Alert\logs>.
+25-02-2023 08:43:35 | INFO      | Start port test...
+25-02-2023 08:43:35 | INFO      | Testing port 5000
+25-02-2023 08:43:36 | INFO      | Port 5000 is free~
+25-02-2023 08:43:36 | OK        | API server is ready to use, port: 5000
+25-02-2023 08:43:36 | INFO      | Your API key: 3tY1_nJf564BfGHHfLS72w
+25-02-2023 08:43:36 | INFO      | Please add 'X-API-KEY' and the API key to the header as the header name and header value of your request.
+25-02-2023 08:43:36 | INFO      | Setting up ngrok...
+25-02-2023 08:43:37 | INFO      | Your ngrok URL: http://1508-85-16-50-81.ngrok.io
+25-02-2023 08:44:41 | INFO      | Sending webhook alert<Alert: BTCUSDT Crossing 20829.89>, content: BTCUSDT Crossing 20829.89
+
+25-02-2023 08:44:42 | OK        | Sent webhook alert successfully!
+25-02-2023 08:44:42 | INFO      | The whole process taken 4.77647s.
+25-02-2023 09:53:33 | INFO      | Sending webhook alert<Alert: { "price": "23115.59" }>, content: {
+"price": "23115.59"
+}
+
+25-02-2023 09:53:33 | INFO      | Sending webhook alert<Alert: BTCUSDT Crossing 20829.89>, content: BTCUSDT Crossing 20829.89
+
+25-02-2023 09:53:33 | INFO      | Sending webhook alert<Alert: { "price": "23123.21" }>, content: {
+"price": "23123.21"
+}
+
+25-02-2023 09:53:34 | OK        | Sent webhook alert successfully!
+25-02-2023 09:53:34 | INFO      | The whole process taken 240.533427s.
+25-02-2023 09:53:34 | OK        | Sent webhook alert successfully!
+25-02-2023 09:53:34 | INFO      | The whole process taken 71.420421s.
+25-02-2023 09:53:34 | OK        | Sent webhook alert successfully!
+25-02-2023 09:53:34 | INFO      | The whole process taken 149.17142s.
+25-02-2023 09:58:01 | DEBUG     | The log file will be saved in <C:\Money_Strat\TradingView-Alert\logs>.
+25-02-2023 09:58:01 | INFO      | Start port test...
+25-02-2023 09:58:01 | INFO      | Testing port 5000
+25-02-2023 09:58:02 | INFO      | Port 5000 is free~
+25-02-2023 09:58:02 | OK        | API server is ready to use, port: 5000
+25-02-2023 09:58:02 | INFO      | Your API key: UiZuYOQfBy4X_9SxOr2syA
+25-02-2023 09:58:02 | INFO      | Please add 'X-API-KEY' and the API key to the header as the header name and header value of your request.
+25-02-2023 09:58:02 | INFO      | Setting up ngrok...
+25-02-2023 09:58:04 | INFO      | Your ngrok URL: http://2982-85-16-50-81.ngrok.io
+25-02-2023 10:03:42 | DEBUG     | The log file will be saved in <C:\Money_Strat\TradingView-Alert\logs>.
+25-02-2023 10:03:42 | INFO      | Start port test...
+25-02-2023 10:03:42 | INFO      | Testing port 5000
+25-02-2023 10:03:43 | INFO      | Port 5000 is free~
+25-02-2023 10:03:43 | OK        | API server is ready to use, port: 5000
+25-02-2023 10:03:43 | INFO      | Your API key: h6snOdXE2qLDGBIVMdU3oA
+25-02-2023 10:03:43 | INFO      | Please add 'X-API-KEY' and the API key to the header as the header name and header value of your request.
+25-02-2023 10:03:43 | INFO      | Setting up ngrok...
+25-02-2023 10:03:45 | INFO      | Your ngrok URL: http://5c23-85-16-50-81.ngrok.io
+25-02-2023 10:04:16 | INFO      | Sending webhook alert<Alert: BTCUSDT Crossing 20829.89>, content: BTCUSDT Crossing 20829.89
+
+25-02-2023 10:04:17 | OK        | Sent webhook alert successfully!
+25-02-2023 10:04:17 | INFO      | The whole process taken 2.008113s.
+25-02-2023 10:08:36 | INFO      | Sending webhook alert<Alert: { "price": "23109.2" }>, content: {
+"price": "23109.2"
+}
+
+25-02-2023 10:08:37 | OK        | Sent webhook alert successfully!
+25-02-2023 10:08:37 | INFO      | The whole process taken 202.280625s.
+25-02-2023 10:08:50 | INFO      | Sending webhook alert<Alert: { "price": "23109.2" }>, content: {
+"price": "23109.2"
+}
+
+25-02-2023 10:08:50 | OK        | Sent webhook alert successfully!
+25-02-2023 10:08:50 | INFO      | The whole process taken 2.747323s.
+25-02-2023 10:10:48 | INFO      | Sending webhook alert<Alert: { "price": "23107.16" }>, content: {
+"price": "23107.16"
+}
+
+25-02-2023 10:10:48 | OK        | Sent webhook alert successfully!
+25-02-2023 10:10:48 | INFO      | The whole process taken 1.107901s.
+25-02-2023 10:41:56 | INFO      | Sending webhook alert<Alert: { "price": "23057" }>, content: {
+"price": "23057"
+}
+
+25-02-2023 10:41:56 | OK        | Sent webhook alert successfully!
+25-02-2023 10:41:56 | INFO      | The whole process taken 6.727928s.
+25-02-2023 10:51:17 | INFO      | Sending webhook alert<Alert: { "price": "23030.83" }>, content: {
+"price": "23030.83"
+}
+
+25-02-2023 10:51:17 | OK        | Sent webhook alert successfully!
+25-02-2023 10:51:17 | INFO      | The whole process taken 3.742411s.

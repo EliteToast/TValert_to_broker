@@ -1,0 +1,83 @@
+15-01-2023 10:14:03 | DEBUG     | The log file will be saved in <C:\TradingView-Free-Webhook-Alerts-main\logs>.
+15-01-2023 10:14:03 | INFO      | Start port test...
+15-01-2023 10:14:04 | INFO      | Testing port 5000
+15-01-2023 10:14:05 | INFO      | Port 5000 is free~
+15-01-2023 10:14:05 | OK        | API server is ready to use, port: 5000
+15-01-2023 10:14:05 | INFO      | Your API key: hjqRE20feAx44WqXLaJT-A
+15-01-2023 10:14:05 | INFO      | Please add 'X-API-KEY' and the API key to the header as the header name and header value of your request.
+15-01-2023 10:14:05 | INFO      | Setting up ngrok...
+15-01-2023 10:14:07 | INFO      | Your ngrok URL: http://fca1-178-142-139-153.ngrok.io
+15-01-2023 10:15:33 | ERROR     | Received data is not valid, data: {'from': 'noreply@tradingview.com', 'subject': 'TradingView verification code', 'content': '550455 is your TradingView account verification code\n', 'receive_datatime': '2023-01-15T09:15:31.604Z'}
+15-01-2023 10:21:57 | ERROR     | Received data is not valid, data: {'from': 'noreply@tradingview.com', 'subject': 'Alert: BTCUSDT Crossing 20623.97', 'content': 'BTCUSDT Crossing 20623.97\n', 'receive_datatime': '2023-01-15T09:21:52.941Z'}
+15-01-2023 17:13:05 | DEBUG     | The log file will be saved in <C:\TradingView-Free-Webhook-Alerts-main\logs>.
+15-01-2023 17:13:05 | INFO      | Start port test...
+15-01-2023 17:13:05 | INFO      | Testing port 5000
+15-01-2023 17:13:06 | INFO      | Port 5000 is free~
+15-01-2023 17:13:06 | OK        | API server is ready to use, port: 5000
+15-01-2023 17:13:06 | INFO      | Your API key: dWDyTVYKFBg4QS0dl1S2vg
+15-01-2023 17:13:06 | INFO      | Please add 'X-API-KEY' and the API key to the header as the header name and header value of your request.
+15-01-2023 17:13:06 | INFO      | Setting up ngrok...
+15-01-2023 17:13:09 | INFO      | Your ngrok URL: http://7749-178-142-139-153.ngrok.io
+15-01-2023 17:16:08 | DEBUG     | The log file will be saved in <C:\TradingView-Free-Webhook-Alerts-main\logs>.
+15-01-2023 17:16:08 | INFO      | Start port test...
+15-01-2023 17:16:08 | INFO      | Testing port 5000
+15-01-2023 17:16:09 | INFO      | Port 5000 is free~
+15-01-2023 17:16:09 | OK        | API server is ready to use, port: 5000
+15-01-2023 17:16:09 | INFO      | Your API key: htKjSb3OJ2WLHEZz9q5TWw
+15-01-2023 17:16:09 | INFO      | Please add 'X-API-KEY' and the API key to the header as the header name and header value of your request.
+15-01-2023 17:16:09 | INFO      | Setting up ngrok...
+15-01-2023 17:16:10 | INFO      | Your ngrok URL: http://131a-178-142-139-153.ngrok.io
+15-01-2023 17:30:33 | ERROR     | Received data is not valid, data: {'from': 'noreply@tradingview.com', 'subject': 'TradingView verification code', 'content': '550455 is your TradingView account verification code\n', 'receive_datatime': '2023-01-15T16:18:02.111Z'}
+15-01-2023 17:30:33 | ERROR     | Received data is not valid, data: {'from': 'noreply@tradingview.com', 'subject': 'TradingView verification code', 'content': '550455 is your TradingView account verification code\n', 'receive_datatime': '2023-01-15T16:24:17.566Z'}
+15-01-2023 17:30:33 | ERROR     | Received data is not valid, data: {'from': 'noreply@tradingview.com', 'subject': 'TradingView verification code', 'content': '550455 is your TradingView account verification code\n', 'receive_datatime': '2023-01-15T16:18:41.946Z'}
+15-01-2023 17:33:25 | DEBUG     | The log file will be saved in <C:\TradingView-Free-Webhook-Alerts-main\logs>.
+15-01-2023 17:33:25 | INFO      | Start port test...
+15-01-2023 17:33:25 | INFO      | Testing port 5000
+15-01-2023 17:33:26 | INFO      | Port 5000 is free~
+15-01-2023 17:33:26 | OK        | API server is ready to use, port: 5000
+15-01-2023 17:33:26 | INFO      | Your API key: 024jjfVwu9WoKXeLyXCF8g
+15-01-2023 17:33:26 | INFO      | Please add 'X-API-KEY' and the API key to the header as the header name and header value of your request.
+15-01-2023 17:33:26 | INFO      | Setting up ngrok...
+15-01-2023 17:33:28 | INFO      | Your ngrok URL: http://0d3c-178-142-139-153.ngrok.io
+15-01-2023 17:34:07 | ERROR     | Received data is not valid, data: {'from': 'noreply@tradingview.com', 'subject': 'TradingView verification code', 'content': '550455 is your TradingView account verification code\n', 'receive_datatime': '2023-01-15T16:34:04.620Z'}
+15-01-2023 17:36:54 | ERROR     | Received data is not valid, data: {'from': 'noreply@tradingview.com', 'subject': 'Alert: BTCUSDT Crossing 20876.10', 'content': 'BTCUSDT Crossing 20876.10\n', 'receive_datatime': '2023-01-15T16:36:49.277Z'}
+15-01-2023 17:38:22 | ERROR     | Received data is not valid, data: {'from': 'noreply@tradingview.com', 'subject': 'Alert: BTCUSDT Crossing 20886.10', 'content': 'BTCUSDT Crossing 20886.10\n', 'receive_datatime': '2023-01-15T16:38:17.797Z'}
+15-01-2023 19:08:39 | DEBUG     | The log file will be saved in <C:\TradingView-Free-Webhook-Alerts-main\logs>.
+15-01-2023 19:08:39 | INFO      | Start port test...
+15-01-2023 19:08:39 | INFO      | Testing port 5000
+15-01-2023 19:08:40 | INFO      | Port 5000 is free~
+15-01-2023 19:08:40 | OK        | API server is ready to use, port: 5000
+15-01-2023 19:08:40 | INFO      | Your API key: 8oLzG62HZl5iIqlI0rtU_A
+15-01-2023 19:08:40 | INFO      | Please add 'X-API-KEY' and the API key to the header as the header name and header value of your request.
+15-01-2023 19:08:40 | INFO      | Setting up ngrok...
+15-01-2023 19:08:41 | INFO      | Your ngrok URL: http://ea99-178-142-139-153.ngrok.io
+15-01-2023 19:25:51 | DEBUG     | The log file will be saved in <C:\TradingView-Free-Webhook-Alerts-main\logs>.
+15-01-2023 19:25:51 | INFO      | Start port test...
+15-01-2023 19:25:51 | INFO      | Testing port 5000
+15-01-2023 19:25:52 | INFO      | Port 5000 is free~
+15-01-2023 19:25:52 | OK        | API server is ready to use, port: 5000
+15-01-2023 19:25:52 | INFO      | Your API key: Y6CG4sRhBOKsD2UiKbyQ4g
+15-01-2023 19:25:52 | INFO      | Please add 'X-API-KEY' and the API key to the header as the header name and header value of your request.
+15-01-2023 19:25:52 | INFO      | Setting up ngrok...
+15-01-2023 19:25:53 | INFO      | Your ngrok URL: http://832b-178-142-139-153.ngrok.io
+15-01-2023 19:47:42 | DEBUG     | The log file will be saved in <C:\TradingView-Free-Webhook-Alerts-main\logs>.
+15-01-2023 19:47:42 | INFO      | Start port test...
+15-01-2023 19:47:42 | INFO      | Testing port 5000
+15-01-2023 19:47:43 | INFO      | Port 5000 is free~
+15-01-2023 19:47:43 | OK        | API server is ready to use, port: 5000
+15-01-2023 19:47:43 | INFO      | Your API key: sHzQGHMc0TbKHlUfg3JO1A
+15-01-2023 19:47:43 | INFO      | Please add 'X-API-KEY' and the API key to the header as the header name and header value of your request.
+15-01-2023 19:47:43 | INFO      | Setting up ngrok...
+15-01-2023 19:47:45 | INFO      | Your ngrok URL: http://8ef9-178-142-139-153.ngrok.io
+15-01-2023 19:49:37 | INFO      | Sending webhook alert<TradingView verification code>, content: 550455 is your TradingView account verification code
+
+15-01-2023 19:49:37 | OK        | Sent webhook alert successfully!
+15-01-2023 19:49:38 | INFO      | The whole process taken 6.051222s.
+15-01-2023 19:50:07 | INFO      | Sending webhook alert<Alert: BTCUSDT Crossing 20829.89>, content: BTCUSDT Crossing 20829.89
+
+15-01-2023 19:50:08 | OK        | Sent webhook alert successfully!
+15-01-2023 19:50:08 | INFO      | The whole process taken 3.246226s.
+15-01-2023 19:51:00 | INFO      | Sending webhook alert<Alert: BTCUSDT Crossing 20829.89>, content: BTCUSDT Crossing 20829.89
+
+15-01-2023 19:51:00 | OK        | Sent webhook alert successfully!
+15-01-2023 19:51:00 | INFO      | The whole process taken 5.217115s.

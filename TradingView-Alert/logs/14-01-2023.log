@@ -1,0 +1,11 @@
+14-01-2023 21:31:51 | DEBUG     | The log file will be saved in <C:\TradingView-Free-Webhook-Alerts-main\logs>.
+14-01-2023 21:31:51 | INFO      | Start port test...
+14-01-2023 21:31:51 | INFO      | Testing port 5000
+14-01-2023 21:31:52 | INFO      | Port 5000 is free~
+14-01-2023 21:31:52 | OK        | API server is ready to use, port: 5000
+14-01-2023 21:31:52 | INFO      | Your API key: XPZT3Ika564X_uQ12AXGag
+14-01-2023 21:31:52 | INFO      | Please add 'X-API-KEY' and the API key to the header as the header name and header value of your request.
+14-01-2023 21:31:52 | INFO      | Setting up ngrok...
+14-01-2023 21:31:54 | INFO      | Your ngrok URL: http://565a-85-16-51-111.ngrok.io
+14-01-2023 21:51:38 | ERROR     | Received data is not valid, data: {'from': 'noreply@tradingview.com', 'subject': 'TradingView verification code', 'content': '550455 is your TradingView account verification code\n', 'receive_datatime': '2023-01-14T20:51:36.975Z'}
+14-01-2023 21:52:19 | ERROR     | Received data is not valid, data: {'from': 'noreply@tradingview.com', 'subject': 'TradingView verification code', 'content': '550455 is your TradingView account verification code\n', 'receive_datatime': '2023-01-14T20:52:18.089Z'}
