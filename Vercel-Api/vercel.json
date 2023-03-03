@@ -1,0 +1,22 @@
+{
+    "routes": [
+        {
+            "src": "/",
+            "dest": "/api/null.js"            
+        },
+        {
+            "src": "/api/save",
+            "methods": [
+                "POST"
+            ],
+            "dest": "/api/index.js"            
+        },
+        {
+            "src": "/api/data",
+            "methods": [
+                "GET"
+            ],
+            "dest": "/api/index.js"
+        }
+    ]
+}
